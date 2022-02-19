@@ -973,7 +973,8 @@ footer a:hover{
     }
     #hero{
         padding: 0 20px;
-        background-position: 64%;
+        background-position: top 18% right 32%;
+
     }
     #feature{
         justify-content: space-evenly;
